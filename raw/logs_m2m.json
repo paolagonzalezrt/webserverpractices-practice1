@@ -1,0 +1,57 @@
+[
+  {
+    "log_id": "L001",
+    "device": {
+      "device_id": "D101",
+      "type": "sensor"
+    },
+    "event": "connection",
+    "status": "success",
+    "response_time_ms": 120,
+    "timestamp": "2026-10-10T08:30:00"
+  },
+  {
+    "log_id": "L002",
+    "device": {
+      "device_id": "D102",
+      "type": "gateway"
+    },
+    "event": "data_transfer",
+    "status": "success",
+    "response_time_ms": 245,
+    "timestamp": "2026-10-10T08:31:00"
+  },
+  {
+    "log_id": "L003",
+    "device": {
+      "device_id": "D101",
+      "type": "sensor"
+    },
+    "event": "connection",
+    "status": "failed",
+    "response_time_ms": null,
+    "timestamp": "2026-10-10T08:32:00"
+  },
+  {
+    "log_id": "L004",
+    "device": {
+      "device_id": "D103",
+      "type": "sensor"
+    },
+    "event": "data_transfer",
+    "status": "success",
+    "response_time_ms": 180,
+    "timestamp": "2026-10-10T08:33:00"
+  },
+  {
+    "log_id": "L005",
+    "device": {
+      "device_id": "D102",
+      "type": "gateway"
+    },
+    "event": "connection",
+    "status": "success",
+    "response_time_ms": 95,
+    "timestamp": "2026-10-10T08:34:00"
+  }
+]

@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,category,payment_method,status,transaction_date
+T001,C101,150.50,Electronics,Credit Card,Completed,2026-10-01
+T002,C102,45.00,Food,Debit Card,Completed,2026-10-02
+T003,C103,320.75,Clothing,Digital Wallet,Pending,2026-10-03
+T004,C104,89.99,Food,Credit Card,Completed,2026-10-04
+T005,C105,210.00,Electronics,Debit Card,Cancelled,2026-10-05
+T006,C106,,Clothing,Credit Card,Completed,2026-10-06
+T007,C107,59.90,Food,Digital Wallet,Completed,2026-10-07
+T008,C108,499.99,Electronics,Credit Card,Pending,2026-10-08
+T009,C109,25.50,,Debit Card,Completed,2026-10-09
+T010,C110,120.00,Clothing,Digital Wallet,Completed,2026-10-10
